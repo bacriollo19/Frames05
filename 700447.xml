@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Frame 49-56 x 0.5seg</folder>
+	<filename>700447.jpg</filename>
+	<path>C:\Users\braya\Frame 49-56 x 0.5seg\700447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Revolver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>181</ymin>
+			<xmax>426</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pistola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>208</ymin>
+			<xmax>481</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

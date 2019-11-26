@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Frame 1-25 x 0.5seg</folder>
+	<filename>503868.jpg</filename>
+	<path>C:\Users\braya\Frame 1-25 x 0.5seg\503868.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Revolver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>342</ymin>
+			<xmax>459</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
